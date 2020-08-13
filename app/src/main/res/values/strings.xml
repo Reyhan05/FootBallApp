@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">football club</string>
+
+    <string-array name="Player_Name_persib">
+        <item>1. Muhammad natsir     (GK)</item>
+        <item>2. Ardi idrus          (DF)</item>
+        <item>3. Nick kuipers        (DF) </item>
+        <item>4. Achmad jufrianto    (DF)</item>
+        <item>5. Supardi natsir      (DF + Captain) </item>
+        <item>6. Este vizcarrra      (MF)</item>
+        <item>7. Omid nazari     (MF)</item>
+        <item>9. Febri hariyadi      (MF)</item>
+        <item>10. Ghozali siregar    (FW)</item>
+        <item>11. Ezechiel N' dousel (FW)</item>
+        <item>12. Kevin van kips      (MF)</item>
+    </string-array>
+
+    <string-array name="Player_Name_persija">
+        <item>1. Andritany         (GK)</item>
+        <item>2. Juan tomas        (MF)</item>
+        <item>3. Marko Simic       (FW)</item>
+        <item>4. Reame xandao      (DF)</item>
+        <item>5. Ismed sofyan      (DF + Captain)</item>
+        <item>6. Riko simanjuntak  (WF) </item>
+        <item>7. Bambang pamungkas (FW)</item>
+        <item>8. Rezaldi hehanusa  (DF)</item>
+        <item>9. Rohit chant       (MF)</item>
+        <item>10. Toni sucipto     (DF)</item>
+        <item>11. Novri setiawan   (WF)</item>
+    </string-array>
+
+    <string-array name="Player_Name_psm">
+        <item>1. Rivky mokodompit (GF)</item>
+        <item>2. Zulham Zamrun    (MF)</item>
+        <item>3. Rizky pellu      (FW)</item>
+        <item>4. Asnawi mangku    (MF)</item>
+        <item>5. Wiljam Pluim     (MF)</item>
+        <item>6. Mack antoni clok (MD)</item>
+        <item>7. Ferdinand sinaga (FW)</item>
+        <item>8. Amido balde      (FW)</item>
+        <item>9. Aaron evans      (DF)</item>
+        <item>10. Raphael maitimo (FM)</item>
+        <item>11. Munhar          (DF)</item>
+    </string-array>
+
+    <string-array name="Player_bhayangkara">
+        <item>1. Awan Setho      (GK)</item>
+        <item>2. Nurhidayat      (DF + Captain)</item>
+        <item>3. Herman Dzumafo  (FW)</item>
+        <item>4. Bruno matos     (MF)</item>
+        <item>5. Hedipo gustavo  (FW)</item>
+        <item>6. Adam alis       (MF)</item>
+        <item>7. Nurhidayat      (DF)</item>
+        <item>8. Anderson salles (FW)</item>
+    </string-array>
+
+    <string-array name="Player_persebaya">
+        <item>1. Miswar saputra     (GK)</item>
+        <item>2. Arch wiliams       (FW)</item>
+        <item>3. Diogo campos       (FW)</item>
+        <item>4. Osvaldo haay       (MF)</item>
+        <item>5. Otavio dutra       (DF)</item>
+        <item>6. Irfan jaya         (FW)</item>
+        <item>8. Abu rizal maulana  (DF)</item>
+        <item>9. David da silva     (FW)</item>
+        <item>10. Hansamu yama      (DF)</item>
+        <item>11. Rendi irwan       (MF)</item>
+    </string-array>
+
+    <string-array name="Player_persipura">
+        <item>1. Rivaldo tod verre (MF)</item>
+        <item>2. Ink kyun oh       (MF)</item>
+        <item>3. Boaz solosa       (FW)</item>
+        <item>4. Todd ferre        (FW)</item>
+        <item>5. Ronaldo masedu    (FW)</item>
+        <item>6. David Rumakiek    (FW)</item>
+        <item>7. Titus bonai       (MD)</item>
+        <item>8. Dede sulaiman     (GK)</item>
+        <item>9. Mamadou samassa   (FW)</item>
+    </string-array>
+
+    <string-array name="Player_persela">
+        <item>1. Alex dos santos  (FW)</item>
+        <item>2. Kei hirose       (FW)</item>
+        <item>3. Dwi kuswanto     (GK)</item>
+        <item>4. Rafinha          (WF)</item>
+        <item>5. Demerson bruno   (DF)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B2DFDB"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_persib"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bentuk"
+        android:text="Persib Bandung"
+        android:textColor="#fff" />
+
+
+    <Button
+        android:id="@+id/btn_persija"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bentuk"
+        android:text="Persija Jakarta"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/btn_persela"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bentuk"
+        android:text="Persela Lamongan"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/btn_psm"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bentuk"
+        android:text="Psm Makassar"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/btn_bhayangkara"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bentuk"
+        android:text="Bhayangkara fc"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/btn_persebaya"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bentuk"
+        android:text="Persebaya Surabaya"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/btn_persipura"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bentuk"
+        android:text="Persipura Jayapura"
+        android:textColor="#fff" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100sp"
+        android:background="@drawable/lig" />
+
+</LinearLayout>
